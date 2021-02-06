@@ -54,3 +54,6 @@ set wildignore+=\*.next/\*
 set wildignore+=\*.coverage/\*
 
 set clipboard=unnamed
+
+let mapleader=' '
+let loaded_netrwPlugin = 1
